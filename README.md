@@ -1,0 +1,2 @@
+# Simulador-de-Investimentos-Fundos-Imobiliarios-Excel
+Este projeto foi desenvolvido como parte do desafio de um laboratório prático com foco em Excel aplicado ao mercado financeiro, com ênfase na simulação de investimentos em Fundos Imobiliários (FIIs).  O objetivo foi criar uma planilha inteligente capaz de simular cenários de investimento em FIIs, respondendo às principais dúvidas de investidores.
